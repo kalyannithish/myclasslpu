@@ -8,8 +8,8 @@ import time
 import os
 import schedule
 driver_path= '/usr/local/bin'
-username = "11911809"
-password = "Kalyan@0033"
+username = "XXXX" #registration id
+password = "XXXXXX" #password
 browser = webdriver.Firefox()
 browser.get('https://myclass.lpu.in/')
 time.sleep(5)
