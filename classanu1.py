@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-username = '11911809'
-password = 'Kalyan@0033'
+username = 'XXXXXXXX' #registration id
+password = 'XXXXXXXX' #password
 options = webdriver.ChromeOptions() 
 #download chrome drive and add it's address here
 driver = webdriver.Chrome(options=options, executable_path=r'C:\\Users\\kalya\\Documents\\chromedriver')
